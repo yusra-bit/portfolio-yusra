@@ -17,7 +17,7 @@ export default function Header({ dark, onToggle }: { dark: boolean; onToggle: ()
             width={48}
             height={48}
             onError={() => setPhotoFailed(true)}
-            className="h-24 w-24 shrink-0 rounded-full object-cover"
+            className="h-16 w-16 shrink-0 rounded-full object-cover"
           />
         )}
         <div>

@@ -9,5 +9,5 @@ export const projects: Project[] = [
   { id: "irada", title: "IRADA Consulting", url: "https://iradaconsulting.org/", category: "agency", type: "Website Design", industry: "Consulting",  },
   { id: "timeout", title: "Timeout Hargeisa", url: "https://timeouthargeisa.com/", category: "agency", type: "Website Design", industry: "Restaurant",  },
   { id: "one4seven", title: "One4Seven Restaurant", url: "https://www.one4sevenrestaurant.com/", category: "agency", type: "Website Design", industry: "Restaurant", },
-  { id: "blood-bank", title: "Blood Bank System", category: "community", type: "Side project", industry: "Community", role: "A side project to help the community." },
+  { id: "blood-bank", title: "Blood Bank System", category: "community", type: "Side project", industry: "Community", },
 ];

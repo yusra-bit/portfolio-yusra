@@ -14,7 +14,7 @@ function Row({ p }: { p: Project }) {
       <div>
         <h3 className="font-medium leading-snug tracking-tight">{p.url ? <span className="link">{p.title}</span> : p.title}</h3>
         <p className="text-[13px] text-graphite">{p.industry} · {p.type}</p>
-        <p className="text-[13px]">{p.role}</p>
+        
       </div>
       {p.url && <ArrowUpRight size={18} className="mt-1 shrink-0 text-graphite transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" aria-hidden />}
     </>
