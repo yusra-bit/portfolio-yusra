@@ -15,7 +15,7 @@ export const tagline = "I design and build digital experiences that help busines
 export const about = [
   "My background is in tech. I studied Software Engineering at Abaarso Tech University, where I built a foundation in web development and databases with tools like PHP, MySQL, JavaScript and React. I enjoy the space where design and engineering meet.",
   "My career started with an internship at Sifalo, where I helped build and test a hotel management system and Sifalo Pay. I then joined Vision Creative Agency, working on WordPress and Webflow websites, SEO, email marketing and Google Business Profiles for several clients. Since November 2025 I have switched to freelancing, which lets me work directly with clients from the first idea to a site that is live and well maintained.",
-  "Outside client work, I enjoy reading, writing, and working on personal projects. I like building things that solve real problems, such as <strong> Yalla Talk </strong>, an app that helps friends connect through fun questions, and <strong> a blood bank management system </strong> designed to support my community. I also enjoy learning new things, especially exploring AI tools and finding practical ways to use technology in everyday life."
+  "Outside client work, I enjoy reading, writing, and working on personal projects. I like building things that solve real problems, such as Yalla Talk, an app that helps friends connect through fun questions, and a blood bank management system designed to support my community. I also enjoy learning new things, especially exploring AI tools and finding practical ways to use technology in everyday life."
 ];
 
 export const education = { degree: "BSc Software Engineering", school: "Abaarso Tech University" };
